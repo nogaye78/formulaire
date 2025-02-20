@@ -1,0 +1,34 @@
+body{
+        font-family: arial,sans-serif;
+}
+.container{
+    text-align: center;
+}
+.container-form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 700px;
+    border: none;
+    border-bottom: 2px solid #000;
+    outline: none;
+}
+#bb{
+    width: 700px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #20bb94;
+    color: #fff;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid 1px black; 
+}
+mark{
+    background-color: blue;
+    color: #fff;
+}
